@@ -22,7 +22,9 @@ The program will open a GUI window. Enter a news article in the text box and cli
 You can also save the predictions by clicking the "Save" button. The predictions will be saved to a file called "saved_predictions.txt".
 
 # License
-This program is licensed under the MIT License.
-Credits
 
-# This program was created with Bard.
+This program is licensed under the MIT License.
+
+# Credits
+
+This program was created with Bard.
